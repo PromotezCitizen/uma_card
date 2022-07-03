@@ -1,2 +1,5 @@
 card/
 __pycache__/
+
+*.exe
+*.json
