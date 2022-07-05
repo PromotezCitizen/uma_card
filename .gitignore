@@ -1,5 +1,7 @@
 card/
 __pycache__/
+test/node_modules
 
 *.exe
 *.json
+*.txt
