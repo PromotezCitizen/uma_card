@@ -5,7 +5,7 @@
 > ---
 >  2. test
 >  + install with "use npm install" below items
->  + + axios@0.27.2
->  + + jquery@3.6.0
->  + + jsdom@20.0.0
->  + + request@2.88.2
+>  + - axios@0.27.2
+>  + - jquery@3.6.0
+>  + - jsdom@20.0.0
+>  + - request@2.88.2
