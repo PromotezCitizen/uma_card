@@ -14,5 +14,5 @@
 > + type  crawl()  on console and press enter
 > + on result shown, drop down all item and select "object copy" by right click 
 > + paste on notepad and save file name to  "crawl.txt"
->
+> + run parse.py
 >
