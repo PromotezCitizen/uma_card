@@ -1,6 +1,7 @@
-card/
+only card/card/
 __pycache__/
-test/node_modules
+all data/node_modules
+all data/db
 
 *.exe
 *.json
